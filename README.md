@@ -1,0 +1,1 @@
+# senior-frontend-developer-checklist
