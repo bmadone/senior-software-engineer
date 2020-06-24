@@ -2,59 +2,6 @@
 
 ### Questions
 
-* Chto takoye Git?
-* V chom raznitsa mezhdu Git, GitHub i GitLab?
-* Chto predstavlyayut iz sebya 3 oblasti: Working directory, Staging area, Repository?
-* Vetki
-  * Chto takoye vetka?
-  * Zachem nuzhny vetki?
-  * Chto znachit "sozdat' vetku" i "udalit' vetku" (chto pri etom proiskhodit)?
-  * Kak posmotret' spisok vetok?
-  * Kak smenit' vetku?
-  * Kak sozdat' vetku?
-  * Kak pereimenovat' vetku?
-  * Kak udalit' vetku?
-* Dlya chego nuzhen fayl `.gitignore`?
-* `git config`: chto pozvolyayet delat' i kakiye tri urovnya konfiguratsii yest'?
-* Chto delayut, kak i zachem ispol'zovat' komandy:
-  * `add`
-  * `commit`
-    * Kak i pri kakikh usloviyakh mozhno sdelat' kommit, ne napisav pered etim yavno `git add`?
-    * Kak napisat' soobshcheniye dlya kommita ne otkryvaya redaktora?
-  * `push`
-  * `fetch`
-  * `merge`
-    * Chto takoye fast-forward merge?
-    * Chto delayut flagi `--squash` i `--no-ff`?
-  * `pull`
-* Chto takoye Pull Request (ili Merge Request)?
-* Kak posmotret' istoriyu kommitov?
-* Rasskazat' pro ob"yektnuyu model' (blob, tree, commit, tag) i .pack fayly.
-* Chto takoye "The Three Trees" (The HEAD, The Index, The Working Directory)?
-* Kak proizvodit' otmenu izmeneniy? Gde kakoy sposob stoit primenyat'? Rasskazat' v etom kontekste pro komandy:
-  * `checkout`
-  * `reset`
-  * `revert`
-    * Kak sdelat' revert merge-kommita?
-    * Kak uznat' roditeley merge-kommita?
-  * `clean`
-  * `rm`
-* Kak mozhno izmenit' istoriyu kommitov? Gde kakoy sposob stoit primenyat'? Rasskazat' v etom kontekste pro komandy:
-  * `commit` s flagom `--amend`
-  * `cherry-pick`
-  * `fitler-branch`
-  * `rebase`
-    * Chto takoye interaktivnyy rezhim rebeyza? Chto on pozvolyayet delat'?
-    * Kakiye yest' opasnosti pri ispol'zovanii rebeyza?
-  * Chto delayut, kak pol'zovat'sya, i kogda byvayut polezny komandy:
-    * `stash`
-    * `reflog`
-    * `bisect`
-* Kak otmenit' merge commit?
-* Chto takoye `HEAD` i `detached HEAD`? Chto znachat `HEAD^`, `HEAD~`, `HEAD@{1}`?
-* Chto takoye Git flow, kakiye znayete primery?
-Show more
-1937/5000
 * What is git?
 * What is the difference between Git, GitHub and GitLab?
 * What are 3 areas: Working directory, Staging area, Repository?
