@@ -1,6 +1,6 @@
 # Patterns 
 
-### Pattern Questions
+### Questions
 
 * What is the difference between structural, generative, and behavioral types of patterns?
 * For each pattern, answer the questions:
@@ -21,7 +21,7 @@
 * Component
 * What examples of the implementation of these patterns can be given in a functional language, or in a language where functions are objects of the first class, have closures, and do not have built-in implementation tools to express the classical OO approach?
 
-### Patterns links
+### links
 
 1. [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 2. [Refactoring guru: design patterns](https://refactoring.guru/ru/design-patterns)
