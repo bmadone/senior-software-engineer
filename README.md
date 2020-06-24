@@ -3,7 +3,7 @@
 I have prepared many questions and resources with different topics, with the help of them you can understand what gaps in your knowledge you have and correct them. I hope it will be useful to you as well as to me.
 
 
-### Topics
+## Topics
 1. [Functional programming](https://github.com/bmarvinb/senior-frontend-developer-roadmap/blob/master/functional-programming.md)
 
 2. [OOP](https://github.com/bmarvinb/senior-frontend-developer-roadmap/blob/master/object-oriented-programming.md)
