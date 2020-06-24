@@ -15,3 +15,7 @@ I have prepared many questions and resources with different topics, with the hel
 5. [Testing](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/testing.md)
 
 6. [PWA](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/pwa.md)
+
+7. [Git](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/git.md)
+
+8. [Databases](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/databases.md)
