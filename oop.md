@@ -1,4 +1,4 @@
-# OOP & OOD & Patterns & Design
+# OOP
 
 ### Books
 
