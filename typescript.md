@@ -30,7 +30,7 @@
 * What is type inference? What are some common type inference problems? What types can TS output?
 * What types of polymorphism does TS support and how to work with it?
 
-### Resources
+### Links
 
 * [What is Type Soundness?](http://jschuster.org/blog/2017/03/21/what-is-type-soundness/)
 * [Is there a difference between type safety and type soundness?](https://cs.stackexchange.com/questions/82155/is-there-a-difference-between-type-safety-and-type-soundness)

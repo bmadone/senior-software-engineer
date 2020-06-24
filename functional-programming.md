@@ -85,7 +85,7 @@
         - Managed mutable state
         - Monotonous variable state
 
-### Resources
+### Links
 1. [Functional-Light JavaScript (Kyle Simpson)](https://github.com/getify/Functional-Light-JS)
 2. [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 3. [Functional architecture: a definition](https://blog.ploeh.dk/2018/11/19/functional-architecture-a-definition/)

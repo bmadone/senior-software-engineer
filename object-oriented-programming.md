@@ -64,7 +64,7 @@
     - How do you explain the phrase "Duplication is far cheaper than the wrong abstraction."?
 * What are Cross-cutting concerns? What does coarse-grained and fine-grained responsibility mean?
 
-### OOP Resources
+### OOP Links
 
 1. [Сайд эффекты](http://blog.csssr.ru/2017/10/07/side-effects)
 2. [Composition vs inheritance](https://javarevisited.blogspot.com/2013/06/why-favor-composition-over-inheritance-java-oops-design.html)
@@ -111,7 +111,7 @@
 * Component
 * What examples of the implementation of these patterns can be given in a functional language, or in a language where functions are objects of the first class, have closures, and do not have built-in implementation tools to express the classical OO approach?
 
-### Patterns resources
+### Patterns Links
 
 1. [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 2. [Refactoring guru: design patterns](https://refactoring.guru/ru/design-patterns)
@@ -153,7 +153,7 @@
 *  What are the benefits of declaring an explicit contract between a client and a person who implements a module?
 *  What is the difference between abstraction by parameterization and abstraction by specification?
 
-### Design resources
+### Design Links
 
 1. [How To Design Better JavaScript APIs](https://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) (little bit opinionated post, don't consider as perfect guide)
 2. [Library patterns Multiple levels of abstraction](http://tomasp.net/blog/2015/library-layers/)
