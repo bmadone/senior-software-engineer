@@ -5,7 +5,7 @@
 * [Fundamentals of Object Oriented Programming](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
 * [Domain-Driven-Design](https://en.wikipedia.org/wiki/Domain-driven_design)
 
-### OOP Questions
+### Questions
 
 * What is OOP?
 * What is a class?
@@ -32,7 +32,7 @@
 * Why does a class define a behavior, not a property? And what about encapsulation?
 * Why is the use of plain old javascript objects not complying with the principle "everything is an object"?
 
-### OOP Links
+### Links
 
 1. [Сайд эффекты](http://blog.csssr.ru/2017/10/07/side-effects)
 2. [Composition vs inheritance](https://javarevisited.blogspot.com/2013/06/why-favor-composition-over-inheritance-java-oops-design.html)
