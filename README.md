@@ -4,14 +4,14 @@ I have prepared many questions on OOP, Architecture, design patterns and functio
 
 
 ### Topics
-[Functional programming](https://github.com/bmarvinb/senior-frontend-developer-roadmap/blob/master/functional-programming.md)
+1. [Functional programming](https://github.com/bmarvinb/senior-frontend-developer-roadmap/blob/master/functional-programming.md)
 
-[OOP](https://github.com/bmarvinb/senior-frontend-developer-roadmap/blob/master/object-oriented-programming.md)
+2. [OOP](https://github.com/bmarvinb/senior-frontend-developer-roadmap/blob/master/object-oriented-programming.md)
 
-[Network](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/network.md)
+3. [Network](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/network.md)
 
-[TypeScript](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/typescript.md)
+4. [TypeScript](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/typescript.md)
 
-[Testing](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/testing.md)
+5. [Testing](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/testing.md)
 
-[PWA](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/pwa.md)
+6. [PWA](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/pwa.md)
