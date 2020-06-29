@@ -6,7 +6,7 @@ I have prepared many questions and resources with different topics, with the hel
 ## Topics
 1. [Functional programming](https://github.com/bmarvinb/senior-frontend-developer-roadmap/blob/master/functional-programming.md)
 
-2. [OOP](https://github.com/bmarvinb/senior-software-developer-questions/edit/master/oop.md)
+2. [OOP](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/oop.md)
 
 3. [OOD](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/ood.md)
 
