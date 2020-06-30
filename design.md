@@ -1,6 +1,6 @@
-# Design
+# Architecture & Design
 
-### Design Questions
+### Questions
 
 *  Inversion of Control
     - What is IoC?
@@ -37,7 +37,7 @@
 *  What are the benefits of declaring an explicit contract between a client and a person who implements a module?
 *  What is the difference between abstraction by parameterization and abstraction by specification?
 
-### Design Links
+### Links
 
 1. [How To Design Better JavaScript APIs](https://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) (little bit opinionated post, don't consider as perfect guide)
 2. [Library patterns Multiple levels of abstraction](http://tomasp.net/blog/2015/library-layers/)

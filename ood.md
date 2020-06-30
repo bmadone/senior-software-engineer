@@ -1,6 +1,6 @@
 # OOD
 
-### OOD Questions
+### Questions
 
 * What is abstraction? What are the differences between abstraction, encapsulation, and information hiding?
 * What is Coupling? How does abstraction affect coupling?
@@ -65,7 +65,7 @@
     - How do you explain the phrase "Duplication is far cheaper than the wrong abstraction."?
 * What are Cross-cutting concerns? What does coarse-grained and fine-grained responsibility mean?
 
-### OOD links
+### links
 
 1. [Abstraction, Encapsulation, and Information Hiding](http://www.tonymarston.co.uk/php-mysql/abstraction.txt)
 2. [Difference between Abstraction and Encapsulation](https://www.guru99.com/difference-between-abstraction-and-encapsulation.html#2)
