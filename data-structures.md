@@ -18,7 +18,7 @@
   * What is the principle of LIFO?
   * How to get an element located in the middle of the stack?
   * What use cases exist?
-* Wood
+* Tree
   * What is a tree?
   * What is a leaf and tree knot?
   * What is the depth of a tree?
