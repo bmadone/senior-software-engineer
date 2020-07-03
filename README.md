@@ -25,3 +25,5 @@ I have prepared many questions and resources with different topics, with the hel
 7. [Git](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/git.md)
 
 8. [Databases](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/databases.md)
+
+9. [Data Structures](https://github.com/bmarvinb/senior-software-developer-questions/blob/master/data-structures.md)
