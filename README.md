@@ -29,3 +29,7 @@ I have prepared many questions and resources with different topics, with the hel
 
 10. [Security](https://github.com/bmarvinb/awesome-interview-questions/blob/master/security.md)
 
+11. [Behaviour](https://github.com/bmarvinb/awesome-interview-questions/blob/master/behavior.md)
+
+12. [Data structures](https://github.com/bmarvinb/awesome-interview-questions/blob/master/data-structures.md)
+
