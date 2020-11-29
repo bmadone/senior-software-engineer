@@ -3,6 +3,10 @@
 ### Books
 1. [Computer Networking](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf)
 
+### Labs
+1. [Computer Networking labs]
+(https://gaia.cs.umass.edu/kurose_ross/wireshark.htm)
+
 ### Questions
 * OSI Model
     - What is the OSI model?
