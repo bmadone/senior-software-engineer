@@ -98,8 +98,6 @@
 ### Resources
 
 *  [Talk, Функции уровней модели OSI](https://www.youtube.com/watch?v=7cIC-o2wODs)
-*  [AJAX и COMET, learn js](https://learn.javascript.ru/ajax)
-*  [Using fetch, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 *  [HTTP, MDN](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
 *  [Что такое HTTP](https://7bloggers.ru/chto-takoe-http/)
 *  [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
@@ -109,3 +107,5 @@
 *  [Сетевой интерфейс](http://xgu.ru/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81)
 *  [IP](http://xgu.ru/wiki/IP)
 *  [What the hell is REST, Anyway?](https://programmingisterrible.com/post/181841346708/what-the-hell-is-rest-anyway)
+*  [AJAX и COMET, learn js](https://learn.javascript.ru/ajax)
+*  [Using fetch, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
