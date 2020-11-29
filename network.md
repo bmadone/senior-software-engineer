@@ -32,6 +32,30 @@
     - What is the difference between HTTP 1.1, HTTP 2 and HTTPS?
     - Is it possible to control the state in HTTP?
     - What are sessions?
+* What layers are represented in OSI and in TCP/IP models?
+* TCP/IP protocol stack:
+  * DNS
+    * What is Domain Name system? DNS terminology.
+    * How it works?
+  * HTTP
+    * Request (methods, headers, query, body).
+    * Response (status codes, headers, body).
+  * TCP
+    * How does TCP operate? How does it open and close a connection?
+    * How does UDP operate?
+    * How do UDP and TCP differ? When is it better to choose using TCP over UDP and vice versa?
+    * What are the functions of TCP/IP transport layer?
+    * What is IPv4 socket?
+    * What protocols operate at a transport layer?
+  * IP
+    * What are the types of IP addresses and how do they differ?
+    * What are the parts of IP address?
+    * What is a subnet mask?
+    * What is a network interface? Which parameters do define a network interface?
+    * How to show interfaces list in Linux?
+    * What is the purpose of using `lo`, `eth` and `wlan` interfaces?
+    * How does addressing an interface differ in a local and in a global networks?
+    * What are REST basic principles?
 * Sockets
     - What is a socket in the context of networks?
     - Why is a socket considered an abstract object?
@@ -70,40 +94,14 @@
         - How to process the response from the server?
         - How to catch and process errors?
         - How to implement COMET functionality using JSONP?
-        
-* What layers are represented in OSI and in TCP/IP models?
-* TCP/IP protocol stack:
-  * DNS
-    * What is Domain Name system? DNS terminology.
-    * How it works?
-  * HTTP
-    * Request (methods, headers, query, body).
-    * Response (status codes, headers, body).
-  * TCP
-    * How does TCP operate? How does it open and close a connection?
-    * How does UDP operate?
-    * How do UDP and TCP differ? When is it better to choose using TCP over UDP and vice versa?
-    * What are the functions of TCP/IP transport layer?
-    * What is IPv4 socket?
-    * What protocols operate at a transport layer?
-  * IP
-    * What are the types of IP addresses and how do they differ?
-    * What are the parts of IP address?
-    * What is a subnet mask?
-    * What is a network interface? Which parameters do define a network interface?
-    * How to show interfaces list in Linux?
-    * What is the purpose of using `lo`, `eth` and `wlan` interfaces?
-    * How does addressing an interface differ in a local and in a global networks?
-    * What are REST basic principles?
 
 ### Resources
 
-* [Talk, Функции уровней модели OSI](https://www.youtube.com/watch?v=7cIC-o2wODs)
+*  [Talk, Функции уровней модели OSI](https://www.youtube.com/watch?v=7cIC-o2wODs)
 *  [AJAX и COMET, learn js](https://learn.javascript.ru/ajax)
 *  [Using fetch, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 *  [HTTP, MDN](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
 *  [Что такое HTTP](https://7bloggers.ru/chto-takoe-http/)
-*  [Web-технологии - курс Stepik](https://stepik.org/course/154/)
 *  [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 *  [Cтек протоколов TCP/IP](https://proglib.io/p/tcp-ip/)
 *  [UDP vs. TCP](https://habr.com/ru/post/209144/)
