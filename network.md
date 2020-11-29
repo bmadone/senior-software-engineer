@@ -13,6 +13,7 @@
     - What levels is it divided into? What does the area of ​​responsibility of each level include?
     - What PDUs are used at each level of the model?
     - How do the levels interact with each other? Does the level know about the availability of other levels (can it contact directly)?
+    - What layers are represented in OSI and in TCP/IP models?
 * Transport Protocols
     - What is a unicast message (unicast)?
     - What is broadcast transmission?
@@ -32,7 +33,6 @@
     - What is the difference between HTTP 1.1, HTTP 2 and HTTPS?
     - Is it possible to control the state in HTTP?
     - What are sessions?
-* What layers are represented in OSI and in TCP/IP models?
 * TCP/IP protocol stack:
   * DNS
     * What is Domain Name system? DNS terminology.
