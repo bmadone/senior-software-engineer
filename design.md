@@ -49,3 +49,4 @@
 8. [Modular Programming: Modules and Signatures](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec07-modules/lec07.html)
 9. [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
 10. [Создание архитектуры программы или как проектировать табуретку](https://habr.com/ru/post/276593/)
+11. [Solid book](https://ota-solid.now.sh/)
