@@ -42,7 +42,7 @@
 1. [How To Design Better JavaScript APIs](https://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) (little bit opinionated post, don't consider as perfect guide)
 2. [Library patterns Multiple levels of abstraction](http://tomasp.net/blog/2015/library-layers/)
 3. [Library patterns Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/)
-4. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/) [[Перевод](https://medium.com/@xufocoder/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)]
+4. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/) (https://medium.com/@xufocoder/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)]
 5. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 6. [Dependency injection (from Wikipedia)](https://en.wikipedia.org/wiki/Dependency_injection)
 7. [The Little Manual of API Design](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
