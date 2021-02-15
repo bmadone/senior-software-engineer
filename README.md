@@ -4,6 +4,9 @@
 
 I have prepared many questions and resources with different topics, with the help of them you can understand what gaps in your knowledge you have and correct them. I hope it will be useful to you as well as to me.
 
+## JavaScript Senior Materials 
+1. [JS Senior Grow](https://github.com/bmarvinb/js-senior-grow)
+
 ## Topics
 1. [Functional programming](https://github.com/bmarvinb/awesome-interview-questions/blob/master/functional-programming.md)
 
