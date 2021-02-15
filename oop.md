@@ -1,10 +1,5 @@
 # OOP
 
-### Books
-
-* [Fundamentals of Object Oriented Programming](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Domain-Driven-Design](https://en.wikipedia.org/wiki/Domain-driven_design)
-
 ### Questions
 
 * What is OOP?
@@ -34,13 +29,5 @@
 
 ### Links
 
-1. [Сайд эффекты](http://blog.csssr.ru/2017/10/07/side-effects)
-2. [Composition vs inheritance](https://javarevisited.blogspot.com/2013/06/why-favor-composition-over-inheritance-java-oops-design.html)
-3. [Наследование vs Композиция vs Агрегация](http://sergeyteplyakov.blogspot.com/2012/12/vs-vs.html)
-4. [Uses and Abuses of Inheritance, Part 1](http://www.gotw.ca/publications/mill06.htm)
-5. [Uses and Abuses of Inheritance, Part 2](http://www.gotw.ca/publications/mill07.htm)
-6. [Принципы проектирования классов (S.O.L.I.D.)](https://blog.byndyu.ru/2009/10/solid.html)
-7. [OTA SOLID (интерактивный ресурс)](https://ota-solid.now.sh/)
-8. [SOLID Principles with Uncle Bob - Robert C. Martin](https://www.hanselminutes.com/145/solid-principles-with-uncle-bob-robert-c-martin)
-9. [The Principles of OOD (содержит ссылки на статьи по SOLID)](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+1. [OTA SOLID](https://ota-solid.now.sh/)
 
