@@ -1,11 +1,6 @@
 ## Functional programming
 
-### Books
-
-1. [Sicp](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
-2. [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) (free)
-3. [Mostly adequate guide](https://github.com/MostlyAdequate/mostly-adequate-guide) (free)
-### FP checklist
+### Questions
 
 * What is arity? How to get function arity in JS?
 * What is first-class citizen? What is it in JS?
@@ -57,9 +52,6 @@
 * What is transduction? What problems can be solved with this tool?
 * What is a pointed functor?
 * What are monads? What are they used for? What do the monads below do?
-    - `Maybe`
-    - `Either`
-    - `IO`
 * What is associativity?
 * What is an applicative functor? What is the scope of its application?
 * What do the following utilities do?
@@ -86,18 +78,5 @@
         - Monotonous variable state
 
 ### Links
-1. [Functional-Light JavaScript (Kyle Simpson)](https://github.com/getify/Functional-Light-JS)
-2. [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
-3. [Functional architecture: a definition](https://blog.ploeh.dk/2018/11/19/functional-architecture-a-definition/)
-4. [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0)
-5. [Functional architecture is Ports and Adapters](https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/)
-6. [Functional Programming Design Patterns](https://fsharpforfunandprofit.com/fppatterns/)
-7. [What is idempotence?](https://szymonkrajewski.pl/what-is-idempotence/)
-8. [Why Functional Programming? The Benefits of Referential Transparency](https://sookocheff.com/post/fp/why-functional-programming/)
-9. [Осторожно! Возможны побочные эффекты](https://blog.csssr.ru/2017/10/07/side-effects)
-10. [Thirteen ways of looking at a turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle/)
-11. [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543)
-12. [Изменяемое состояние: опасности и борьба с ними](http://fprog.ru/2009/issue1/eugene-kirpichov-fighting-mutable-state/)
-13. [Immutable Data Structures and JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript#Immutable.js)
-14. [Mutability Leads to Suffering](https://hackernoon.com/mutability-leads-to-suffering-23671a0def6a)
-15. [The discussion thread about mutability](http://lambda-the-ultimate.org/node/724#comment-6580)
+1. [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+1. [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
