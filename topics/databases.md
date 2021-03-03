@@ -36,11 +36,7 @@
 * Why `count(*)` is usually faster than `count(specific_row)` and `SELECT reltuples FROM pg_class` is even faster?
 
 ### Links:
-* [Литература с Postgrespro](https://postgrespro.ru/education/books):
-  * Новиков, Б. А. Основы технологий баз данных, часть 1:
-    * Теоретические основы БД - 2.1, 2.2
-  * Моргунов, Е. П. PostgreSQL. Основы языка SQL:
-    * Основы SQL - главы 1-7
+* [Литература с Postgrespro](https://postgrespro.ru/education/books)
 * [Введение в базы данных, курс Stepik](https://stepik.org/course/551/)
 * CAP theorem
   * [CAP теорема доступным языком](https://habr.com/ru/post/130577/)

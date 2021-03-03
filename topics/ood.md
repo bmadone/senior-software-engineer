@@ -12,7 +12,6 @@
     - Is vertical separation possible without horizontal and vice versa?
     - How is it associated with the Single Responsibility Principle and with cohesion?
 * Simplicity
-    - How does Rich Hickey in his report "Simple Made Easy" describe the difference between Simple and Easy? Why in the first place is it striving for simplicity, and not for ease?
     - What is the KISS principle?
     - How does KISS help in building mental models? What is the value of these models?
     - How can participating in the development of business requirements help follow KISS?
@@ -20,7 +19,6 @@
     - Why inheritance can lead to violation of KISS?
     - What is the principle of YAGNI? How does it compare with the KISS principle?
 * DRY
-    - What is the main idea of ​​the DRY principle?
     - How is the principle related to Cohesion?
     - How is the principle related to the principle of SRP?
     - Why is this principle inextricably linked with SPOT (Single point of truth)?
@@ -32,38 +30,6 @@
     - How do you explain the phrase "Duplication is far cheaper than the wrong abstraction."?
 * What are Cross-cutting concerns? What does coarse-grained and fine-grained responsibility mean?
 
-
-### OOD Questions
-
-* What is abstraction? What are the differences between abstraction, encapsulation, and information hiding?
-* What is Coupling? How does abstraction affect coupling?
-* What is Cohesion? Is this value the reciprocal of Coupling?
-* Separation of concerns
-    - What it is?
-    - What are the benefits of following this principle?
-    - What do horizontal and vertical separation of concerns mean?
-    - Is vertical separation possible without horizontal and vice versa?
-    - How is it associated with the Single Responsibility Principle and with cohesion?
-* Simplicity
-    - How does Rich Hickey in his report "Simple Made Easy" describe the difference between Simple and Easy? Why in the first place is it striving for simplicity, and not for ease?
-    - What is the KISS principle?
-    - How does KISS help in building mental models? What is the value of these models?
-    - How can participating in the development of business requirements help follow KISS?
-    - When is abstraction contrary to KISS?
-    - Why inheritance can lead to violation of KISS?
-    - What is the principle of YAGNI? How does it compare with the KISS principle?
-* DRY
-    - What is the main idea of ​​the DRY principle?
-    - How is the principle related to Cohesion?
-    - How is the principle related to the principle of SRP?
-    - Why is this principle inextricably linked with SPOT (Single point of truth)?
-    - What are some examples of code duplication that do not violate DRY?
-    - What are some examples of copying business logic code that also do not violate DRY?
-    - How can following the DRY principle lead to a violation of KISS?
-    - How can following the DRY principle lead to Premature Generalization?
-    - Why, when trying to remove duplication, when there are still few repetitions of this code (up to 4-5), we can easily make a mistake and choose the wrong refactoring method? What is the analogy with statistics?
-    - How do you explain the phrase "Duplication is far cheaper than the wrong abstraction."?
-* What are Cross-cutting concerns? What does coarse-grained and fine-grained responsibility mean?
 
 ### links
 

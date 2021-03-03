@@ -39,11 +39,9 @@
     - What?
     - What are the advantages and disadvantages of the application?
     - What is tail call optimization? Is it supported in JS?
-* Study the book [Professor Frisby's Mostly Adequate Guide to Functional Programming] (https://github.com/MostlyAdequate/mostly-adequate-guide) by Franklin Frisby (chapters 8-12 included).
-    - [Translation] (https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
-* Explore the book [Functional-Light JavaScript] (https://github.com/getify/Functional-Light-JS) by Kyle Simpson (chapters 9-11, plus additions).
+* Study the book [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) by Franklin Frisby (chapters 8-12 included)
+* Explore the book [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) by Kyle Simpson (chapters 9-11, plus additions).
 * How to implement the functionality of objects through closures and vice versa? What are the advantages of each method?
-* How can I create private values ​​in a function? How can they be made immune?
 * What are categories? What are morphisms?
 * What is isomorphism?
 * What is a functor?

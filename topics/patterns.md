@@ -23,5 +23,4 @@
 
 ### links
 
-1. [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
-2. [Refactoring guru: design patterns](https://refactoring.guru/ru/design-patterns)
+1. [Refactoring guru: design patterns](https://refactoring.guru/ru/design-patterns)
