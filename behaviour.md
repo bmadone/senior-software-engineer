@@ -1,3 +1,6 @@
+# Behavior
+
+## Questions
 1. How did you get into Company X? What companies did you choose from? What were the main criteria for choosing a company?
 2. What was the state of the project at the time of your arrival? How has the project changed during the work, how have you influenced it?
 3. How was the development process arranged?   Testing? Deploy?
