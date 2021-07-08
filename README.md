@@ -16,7 +16,7 @@ I have prepared many questions and resources with different topics, with the hel
 * [OOD](https://github.com/bmarvinb/awesome-interview-questions/blob/master/ood.md)
 * [Architecture & Design](https://github.com/bmarvinb/awesome-interview-questions/blob/master/architecture.md)
 * [Design Patterns](https://github.com/bmarvinb/awesome-interview-questions/blob/master/design-patterns.md)
-* [Network](https://github.com/bmarvinb/awesome-interview-questions/blob/master/computer-networks.md)
+* [Computer Networks](https://github.com/bmarvinb/awesome-interview-questions/blob/master/computer-networks.md)
 * [Testing](https://github.com/bmarvinb/awesome-interview-questions/blob/master/testing.md)
 * [Git](https://github.com/bmarvinb/awesome-interview-questions/blob/master/git.md)
 * [Behavior](https://github.com/bmarvinb/awesome-interview-questions/blob/master/behaviour.md)
