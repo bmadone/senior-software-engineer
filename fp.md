@@ -1,6 +1,6 @@
 ## Functional programming
 
-### Questions
+## Questions
 
 * What is arity? How to get function arity in JS?
 * What is first-class citizen? What is it in JS?
@@ -75,6 +75,6 @@
         - Managed mutable state
         - Monotonous variable state
 
-### Links
+## Links
 1. [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 1. [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
