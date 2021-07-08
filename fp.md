@@ -1,4 +1,4 @@
-## Functional programming
+# Functional Programming
 
 ## Questions
 
@@ -39,8 +39,6 @@
     - What?
     - What are the advantages and disadvantages of the application?
     - What is tail call optimization? Is it supported in JS?
-* Study the book [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) by Franklin Frisby (chapters 8-12 included)
-* Explore the book [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) by Kyle Simpson (chapters 9-11, plus additions).
 * How to implement the functionality of objects through closures and vice versa? What are the advantages of each method?
 * What are categories? What are morphisms?
 * What is isomorphism?
@@ -52,29 +50,10 @@
 * What are monads? What are they used for? What do the monads below do?
 * What is associativity?
 * What is an applicative functor? What is the scope of its application?
-* What do the following utilities do?
-    - `identity`
-    - `partial` /` partialRight`
-    - `prop`
-    - `curry` /` uncurry`
-    - `cond`
-    - `flatMap` /` chain`
-* Immutability and state
-    - Can the state of the program be immutable?
-    - What is the problem of storing the state of the program?
-    - Why does a mutable state make it difficult to comply with the guarantee of invariants throughout the program life cycle?
-    - Why does mutability impose additional requirements on the order of functions? How can this be avoided?
-    - Describe the following state models. How can they be graded according to the degree of danger?
-        - Invisible to the client mutable state
-        - Encapsulated mutable state
-        - Invisible programmer mutable state
-        - Two-phase life cycle
-        - A mutable state shared between several processes
-        - Lack of mutable state
-        - Unencapsulated mutable state
-        - Managed mutable state
-        - Monotonous variable state
 
 ## Links
-1. [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
-1. [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
+* [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+* [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) by Franklin Frisby (chapters 8-12 included)
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) by Kyle Simpson (chapters 9-11, plus additions).
+
