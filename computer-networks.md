@@ -1,6 +1,6 @@
 # Network
 
-### Questions
+## Questions
 * OSI Model
     - What is the OSI model?
     - What was it designed for?
