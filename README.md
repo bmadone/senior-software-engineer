@@ -5,7 +5,10 @@
 I have prepared many questions and resources with different topics, with the help of them you can understand what gaps in your knowledge you have and correct them. I hope it will be useful to you as well as to me.
 
 ## Senior Software Engineer (JavaScript) 
-1. [Senior software engineer](https://github.com/bmarvinb/senior-software-engineer)
+* [Senior software engineer](https://github.com/bmarvinb/senior-software-engineer)
+
+## RDBMS (RU)
+* [Реляционные базы данных](https://github.com/bmarvinb/rdbms)
 
 ## Topics
 * [Functional programming](https://github.com/bmarvinb/awesome-interview-questions/blob/master/fp.md)
