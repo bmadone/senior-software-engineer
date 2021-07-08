@@ -1,6 +1,6 @@
 # OOP
 
-### Questions
+## Questions
 
 * What is OOP?
 * What is a class?
@@ -27,7 +27,7 @@
 * Why does a class define a behavior, not a property? And what about encapsulation?
 * Why is the use of plain old javascript objects not complying with the principle "everything is an object"?
 
-### Links
+## Links
 
 1. [OTA SOLID](https://ota-solid.now.sh/)
 
