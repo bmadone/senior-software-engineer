@@ -1,5 +1,7 @@
 # Testing
 
+## Questions
+
 * What is automated testing, and what is the difference from manual testing?
 * What is unit-test?
 * What is TDD?
@@ -44,7 +46,7 @@
 * Why strive to ensure that tests can be run as conveniently as possible and with just one team?
 * Is it worth writing "training" integration tests that are run only manually and only for testing an external API (for example, the Web API Github)?
 
-### Links
+## Links
 
 * [Unit testing](https://www.manning.com/books/unit-testing) - Must Read
 * [Test first by R. Marting](https://blog.cleancoder.com/uncle-bob/2013/09/23/Test-first.html)
