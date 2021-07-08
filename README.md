@@ -8,14 +8,13 @@ I have prepared many questions and resources with different topics, with the hel
 1. [Senior software engineer](https://github.com/bmarvinb/senior-software-engineer)
 
 ## Topics
-1. [Functional programming](https://github.com/bmarvinb/awesome-interview-questions/blob/master/functional-programming.md)
-2. [OOP](https://github.com/bmarvinb/awesome-interview-questions/blob/master/oop.md)
-3. [OOD](https://github.com/bmarvinb/awesome-interview-questions/blob/master/ood.md)
-4. [Architecture & Design](https://github.com/bmarvinb/awesome-interview-questions/blob/master/architecture.md)
-5. [Patterns](https://github.com/bmarvinb/awesome-interview-questions/blob/master/patterns.md)
-6. [Network](https://github.com/bmarvinb/awesome-interview-questions/blob/master/network.md)
-7. [Testing](https://github.com/bmarvinb/awesome-interview-questions/blob/master/testing.md)
-8. [Git](https://github.com/bmarvinb/awesome-interview-questions/blob/master/git.md)
-9. [Databases](https://github.com/bmarvinb/awesome-interview-questions/blob/master/databases.md)
-10. [Behavior](https://github.com/bmarvinb/awesome-interview-questions/blob/master/behaviour.md)
+* [Functional programming](https://github.com/bmarvinb/awesome-interview-questions/blob/master/fp.md)
+* [OOP](https://github.com/bmarvinb/awesome-interview-questions/blob/master/oop.md)
+* [OOD](https://github.com/bmarvinb/awesome-interview-questions/blob/master/ood.md)
+* [Architecture & Design](https://github.com/bmarvinb/awesome-interview-questions/blob/master/architecture.md)
+* [Design Patterns](https://github.com/bmarvinb/awesome-interview-questions/blob/master/design-patterns.md)
+* [Network](https://github.com/bmarvinb/awesome-interview-questions/blob/master/computer-networks.md)
+* [Testing](https://github.com/bmarvinb/awesome-interview-questions/blob/master/testing.md)
+* [Git](https://github.com/bmarvinb/awesome-interview-questions/blob/master/git.md)
+* [Behavior](https://github.com/bmarvinb/awesome-interview-questions/blob/master/behaviour.md)
 
