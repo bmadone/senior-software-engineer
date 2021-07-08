@@ -1,6 +1,6 @@
-# Architecture & Design
+# Architecture
 
-### Questions
+## Questions
 
 *  Inversion of Control
     - What is IoC?
@@ -25,14 +25,13 @@
     - What is the rule "The best API is no API" about? What are the examples of breaking the rule?
 *  What is the difference between abstraction by parameterization and abstraction by specification?
 
-### Links
-
-1. [Library patterns. Multiple levels of abstraction](http://tomasp.net/blog/2015/library-layers/)
-2. [Library patterns. Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/)
-3. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
-4. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
-5. [Dependency injection (from Wikipedia)](https://en.wikipedia.org/wiki/Dependency_injection)
-6. [The Little Manual of API Design](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
-7. [Modular Programming: Modules and Signatures](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec07-modules/lec07.html)
-8. [Solid book](https://ota-solid.now.sh/)
-9. [Premature optimization](https://optimization.guide/)
+## Links
+* [Library patterns. Multiple levels of abstraction](http://tomasp.net/blog/2015/library-layers/)
+* [Library patterns. Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/)
+* [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
+* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+* [Dependency injection (from Wikipedia)](https://en.wikipedia.org/wiki/Dependency_injection)
+* [The Little Manual of API Design](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
+* [Modular Programming: Modules and Signatures](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec07-modules/lec07.html)
+* [Solid book](https://ota-solid.now.sh/)
+* [Premature optimization](https://optimization.guide/)
