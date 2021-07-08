@@ -46,23 +46,10 @@
 
 ### Links
 
-* [A quick guide to Manual Testing Vs Automated Testing](https://reqtest.com/testing-blog/manual-testing-vs-automated-testing/)
-* [Зачем нужны юнит-тесты](https://tproger.ru/translations/unit-tests-purposes/)
-* [Как, используя TDD, сократить время разработки](https://www.simbirsoft.com/blog/razrabotka-cherez-testirovanie-polza-i-vred/)
-* [Об использовании модульных тестов и TDD](https://eax.me/unit-testing/)
-* [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing/)
-* [Знакомство с фронтенд-тестированием. Часть первая. Введение](https://tproger.ru/translations/frontend-testing-1/)
-* [Осторожно! Возможны побочные эффекты](http://blog.csssr.ru/2017/10/07/side-effects)
-* [JS testing tools overview](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
-* Clean code. Part 9.
-* [Гид по ручному тестированию приложений: преимущества, этапы и методологии](https://habr.com/ru/company/skillbox/blog/418889/)
+* [Unit testing](https://www.manning.com/books/unit-testing) - Must Read
 * [Test first by R. Marting](https://blog.cleancoder.com/uncle-bob/2013/09/23/Test-first.html)
 * [5 Questions Every Unit Test Must Answer by E. Elliott](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
-* [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
 * [UnitTest by M. Fowler](https://martinfowler.com/bliki/UnitTest.html)
-* [Unit Tests from XP](http://www.extremeprogramming.org/rules/unittests.html)
-* [Test Reviews Vs. Code Reviews - Some Helpful Tips](https://osherove.com/blog/2007/3/13/test-reviews-vs-code-reviews-some-helpful-tips.html)
 * [Types and Tests](https://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html)
 * [Mocks Aren't Stubs](https://www.martinfowler.com/articles/mocksArentStubs.html)
 * [We don't write tests. There just isn't time for luxuries.](https://www.jamesgolick.com/2007/8/22/we-dont-write-tests-there-just-isnt-time-for-luxuries.html)
-* [Юнит-тестирование для чайников](https://habr.com/en/post/169381/)
