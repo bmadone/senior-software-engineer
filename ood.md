@@ -1,6 +1,6 @@
 # OOD
 
-### Questions
+## Questions
 
 * What is abstraction? What are the differences between abstraction, encapsulation, and information hiding?
 * What is Coupling? How does abstraction affect coupling?
@@ -31,7 +31,7 @@
 * What are Cross-cutting concerns? What does coarse-grained and fine-grained responsibility mean?
 
 
-### links
+## links
 
 * [Simple Made Easy — talk of Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)
 * [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
