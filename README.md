@@ -7,9 +7,6 @@ I have prepared many questions and resources with different topics, with the hel
 ## Software Engineering 
 * [Software Engineering](https://github.com/bmarvinb/software-engineering)
 
-## RDBMS (RU)
-* [Реляционные базы данных](https://github.com/bmarvinb/rdbms)
-
 ## Topics
 * [Functional programming](https://github.com/bmarvinb/awesome-interview-questions/blob/master/fp.md)
 * [OOP](https://github.com/bmarvinb/awesome-interview-questions/blob/master/oop.md)
