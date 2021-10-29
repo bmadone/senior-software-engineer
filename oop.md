@@ -26,6 +26,7 @@
 * What is delegation?
 * Why does a class define a behavior, not a property? And what about encapsulation?
 * Why is the use of plain old javascript objects not complying with the principle "everything is an object"?
+* What is the difference between overloading and overriding?
 
 ## Links
 
