@@ -2,8 +2,6 @@
 
 # Software Engineer Interview Questions
 
-## General topics
-
 - [Programming paradigms](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/programming-paradigms)
 - [Communication Protocol](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/communication-protocols)
 - [Security Basics](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/security-basics)
