@@ -2,19 +2,18 @@
 
 # Software Engineer Interview Questions
 
-I have prepared many questions and resources with different topics, with the help of them you can understand what gaps in your knowledge you have and correct them. I hope it will be useful to you as well as to me.
+## General topics
 
-## Software Engineering Topics 
-* [Software Engineering](https://github.com/bmarvinb/software-engineering)
-
-## Topics
-* [Functional programming](https://github.com/bmarvinb/awesome-interview-questions/blob/master/fp.md)
-* [OOP](https://github.com/bmarvinb/awesome-interview-questions/blob/master/oop.md)
-* [OOD](https://github.com/bmarvinb/awesome-interview-questions/blob/master/ood.md)
-* [Architecture & Design](https://github.com/bmarvinb/awesome-interview-questions/blob/master/architecture.md)
-* [Design Patterns](https://github.com/bmarvinb/awesome-interview-questions/blob/master/design-patterns.md)
-* [Computer Networks](https://github.com/bmarvinb/awesome-interview-questions/blob/master/computer-networks.md)
-* [Testing](https://github.com/bmarvinb/awesome-interview-questions/blob/master/testing.md)
-* [Git](https://github.com/bmarvinb/awesome-interview-questions/blob/master/git.md)
-* [Behavior](https://github.com/bmarvinb/awesome-interview-questions/blob/master/behaviour.md)
-
+- [Programming paradigms](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/programming-paradigms)
+- [Communication Protocol](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/communication-protocols)
+- [Security Basics](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/security-basics)
+- [Performance Optimizations](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/performance)
+- [Web Application Design and Framework](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/web-application-design)
+- [Angular framework deep dive](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/angular)
+- [Architecture](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/architecture)
+- [Patterns](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/patterns)
+- [Code quality](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/code-quality)
+- [CI/CD, Git](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/ci-cd)
+- [SDLC](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/sdlc)
+- [Estimations](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/estimations)
+- [Team management and Soft Skills](https://github.com/bmarvinb/software-engineer-interview-questions/tree/master/soft-skills)
