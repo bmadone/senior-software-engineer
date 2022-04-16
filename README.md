@@ -1,4 +1,4 @@
-<img src="developer.gif">
+<img src="developers.gif">
 
 # Topics
 
