@@ -1,6 +1,6 @@
 <img src="developers.gif">
 
-# Topics
+# Subjects
 
 - [Programming paradigms](https://github.com/bmarvinb/awesome-software-engineering/tree/master/programming-paradigms)
 - [Communication Protocol](https://github.com/bmarvinb/awesome-software-engineering/tree/master/communication-protocols)
