@@ -1,5 +1,7 @@
 <img src="developers.gif">
 
+This repository focuses on commonly encountered software engineering subjects with a specific emphasis on web development. 
+
 # Subjects
 
 -   [Programming Paradigms](https://github.com/bmadone/software-engineering-subjects/blob/master/programming-paradigms.md)
