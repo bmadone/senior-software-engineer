@@ -1,0 +1,15 @@
+**Resources**
+
+-   [Создание архитектуры программы или как проектировать табуретку](https://habr.com/ru/post/276593/)
+-   [Как писать тестируемый код](https://habr.com/ru/company/mailru/blog/267277/)
+-   [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
+-   [Три ключевых принципа ПО, которые вы должны понимать](https://habr.com/ru/post/144611/)
+-   [Паралич анализа: вы знаете слишком много, чтобы просто писать код](https://habr.com/ru/post/218345/)
+-   [Эти бесчисленные парадигмы, концепции, инструменты и фреймворки](https://habr.com/ru/post/117365/)
+-   [Признаки плохого программиста](https://habr.com/ru/post/130850/)
+-   [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+-   [Основы ООП](https://www.youtube.com/watch?v=t8zwdpkSRWs)
+-   [Основы функционального программирования](https://www.youtube.com/watch?v=FDGqNxJnbbQ)
+-   [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
+-   [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+-   [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
