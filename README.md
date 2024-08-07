@@ -1,8 +1,8 @@
 <img src="developers.gif">
 
-This repository focuses on commonly encountered software engineering subjects with a specific emphasis on web development.
+Resources to prepare yourself for the following interview or assessment inside the company for senior-level roles in software
 
-# Subjects
+# Topics
 
 -   [Programming Paradigms](https://github.com/bmadone/software-engineering-subjects/blob/master/subjects/programming-paradigms.md)
 -   [Communication Protocols](https://github.com/bmadone/software-engineering-subjects/blob/master/subjects/communication-protocols.md)
